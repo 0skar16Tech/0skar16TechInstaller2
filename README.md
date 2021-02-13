@@ -1,7 +1,17 @@
 # 0skar16TechInstaller2
 
 
-# Packets [Chapter 1]
+
+
+# Download [Chapter 1]
+  You can download app from: https://github.com/0skar16Tech/0skar16TechInstaller2/raw/main/0skar16TechInstaller.exe.
+
+
+
+
+
+
+# Packets [Chapter 2]
   # Packets Repository [Sub-Chapter 1]
   To add Packets Repository you need to create Packets Repository json file and host it to do that you can use pastebin in raw version.
   Example: https://pastebin.com/raw/gGVgApER.
@@ -12,7 +22,7 @@
   In IconUrl you need to put 64x64 pixels png icon url you can use imgurl to do that.
   In DescriptionURL you need to put Url to description you can use to do this pastebin too Example: https://pastebin.com/raw/2DrjVUqm.
   In zippacketurl you need to put Url to your app in zip compression you can use dropbox, google drive, etc. to do that.
-# Languages [Chapter 2]
+# Languages [Chapter 3]
   Language is wrote in Json too. Example: https://pastebin.com/raw/mM5RhBAn.
   In name put name of the language in this language Example: Polish will be Polski.
   In alias put international short name of language Example: Polish will be pl, English will be un.
